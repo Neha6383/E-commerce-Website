@@ -4,17 +4,17 @@ This e-commerce website for sports products is an online platform that allows us
 
 ### Homepage:
 A visually appealing landing page with featured products, banners, and promotional offers.
-# Product Listings:
+### Product Listings:
 A grid or list view of sports products with images, names, prices, and ratings.
-# Product Detail Page:
+### Product Detail Page:
 Detailed information about a specific product, including images, descriptions, sizes, reviews, and an "Add to Cart" button.
-# Search and Filtering:
+### Search and Filtering:
 A search bar and filters (e.g., price range, categories, or brands) to help users find products quickly.
-# Shopping Cart: 
+### Shopping Cart: 
 A section where users can review and manage selected products before checkout.
-# Checkout and Payment:
+### Checkout and Payment:
 A secure checkout process with options for payment and delivery.
-# User Account:
+### User Account:
 Features for account creation, order tracking, and managing preferences.
 
 
