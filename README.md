@@ -18,4 +18,5 @@ A secure checkout process with options for payment and delivery.
 Features for account creation, order tracking, and managing preferences.
 
 
+
 The website uses HTML for structuring content, CSS for styling (e.g., fonts, colors, and layouts), and JavaScript to enable dynamic functionalities like product carousels, real-time cart updates, and form validations.
